@@ -1,100 +1,92 @@
 <h1 align="center">Cherinet Derbie</h1>
 
 <h3 align="center">
-Full-Stack Developer (MERN & PERN) | Software Engineering Student at ASTU
+⚡ Full-Stack Developer (MERN & PERN) | AI & Agentic Systems Explorer ⚡
 </h3>
 
 <p align="center">
-💻 Building scalable systems • 🚀 Clean architecture • 🤖 AI & Agentic Systems Explorer
+Building scalable systems • Intelligent applications • Future-ready software
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;MERN+%26+PERN+Engineer;AI+Explorer+%7C+Agentic+AI+Learner;Building+Scalable+Web+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;MERN+%26+PERN+Engineer;AI+%7C+Agentic+AI+Explorer;Building+Scalable+Future+Systems" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 SYSTEM PROFILE
 
-Software Engineering student at **Adama Science and Technology University (ASTU)** and Full-Stack Developer specializing in **MERN & PERN stacks**.
-
-I build **clean, scalable, and maintainable web applications**, focusing on backend systems, APIs, and user experience.
-
-I am also exploring **Agentic AI, AI Automation, and intelligent systems** to build software that can think, reason, and act.
+> Software Engineering Student @ ASTU  
+> Full-Stack Developer specializing in scalable web architecture  
+> Focused on AI systems, automation, and intelligent applications  
 
 ---
 
-## 🚀 Focus Areas
+## 🚀 CORE FOCUS AREAS
 
-- Full-Stack Web Development  
-- RESTful APIs & Backend Systems  
-- Database Design (MongoDB, PostgreSQL)  
-- AI-Powered Applications  
-- Agentic AI & Automation Systems  
-- Open Source Collaboration  
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=3C873A)
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+- ⚙️ Full-Stack Web Engineering  
+- 🧠 AI & Agentic AI Systems  
+- 🔗 RESTful API Architecture  
+- 🗄️ Distributed Databases (MongoDB / PostgreSQL)  
+- 🤖 Intelligent Automation Systems  
+- 🌐 Open Source Contribution  
 
 ---
 
-## 🎯 Goals
-
-- Build production-level AI systems  
-- Master Agentic AI & automation workflows  
-- Contribute to impactful open-source projects  
-- Grow as a Full-Stack + AI Engineer  
-- Create real-world scalable systems  
-
----
-
-## 📊 GitHub Stats
+## 🛠 TECH STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chera1606&show_icons=true&theme=tokyonight" />
+
+![React](https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=00F7FF)
+![Node](https://img.shields.io/badge/NODE-0D1117?style=for-the-badge&logo=node.js&logoColor=39FF14)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![MongoDB](https://img.shields.io/badge/MONGODB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00FF7F)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00A3E0)
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 SYSTEM ACTIVITY
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chera1606&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=chera1606&show_icons=true&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## 💻 Top Languages
+## 🔥 DEVELOPMENT STREAK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chera1606&layout=compact&theme=tokyonight" />
+
+<img src="https://streak-stats.demolab.com?user=chera1606&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## 📫 Contact
+## 💻 LANGUAGE MATRIX
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chera1606&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 📡 CONNECT SYSTEM
 
 - 📧 Email: cherinetderbie@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/cherinet-derbie-4b1206377/  
 - 💬 Telegram: https://t.me/Alula1623  
+
+---
+
+<p align="center">
+⚡ Built for the future • Powered by code • Driven by AI ⚡
+</p>
