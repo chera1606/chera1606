@@ -128,3 +128,17 @@
 <p align="center">
   <strong>Building the future with clean code, scalable systems, and intelligent automation.</strong>
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer" width="100%" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=chera1606&color=6E40C9&style=flat-square&label=Profile+Views)
+
+*Open to collaborations on AI systems, scalable APIs, and full-stack products.*
+
+</div>
