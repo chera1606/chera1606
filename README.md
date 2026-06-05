@@ -7,7 +7,7 @@
 </div>
 
 
-## 🧠 SYSTEM PROFILE
+## About Me
 
 > Software Engineering student at **Adama Science and Technology University (ASTU)**  
 > Full-Stack Developer focused on **scalable web applications, APIs, and clean architecture**  
