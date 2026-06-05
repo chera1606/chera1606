@@ -1,5 +1,7 @@
 # Hi there, I'm Cherinet Derbie 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%26+PERN+Stack+Engineer;AI+Explorer+%7C+Agentic+AI+Learner;Building+Scalable+Web+Systems+%26+APIs)
+
 **Full-Stack Developer (MERN & PERN) | Software Engineering Student at ASTU**
 
 💻 Building scalable web systems and APIs
@@ -67,6 +69,18 @@ Beyond web development, I'm actively exploring Data Science, Artificial Intellig
 * Contribute to impactful open-source projects
 * Grow as a Full-Stack and AI Engineer
 * Create technology that solves practical problems
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chera1606&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chera1606&theme=tokyonight)
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chera1606&layout=compact&theme=tokyonight)
 
 ## 📫 Connect With Me
 
