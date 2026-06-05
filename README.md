@@ -1,6 +1,9 @@
 # Hi there, I'm Cherinet Derbie 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%26+PERN+Stack+Engineer;AI+Explorer+%7C+Agentic+AI+Learner;Building+Scalable+Web+Systems+%26+APIs)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+%26+PERN+Engineer;AI+Explorer+%7C+Agentic+AI+Learner;Building+Scalable+Web+Systems" />
+</p>
+
 
 **Full-Stack Developer (MERN & PERN) | Software Engineering Student at ASTU**
 
