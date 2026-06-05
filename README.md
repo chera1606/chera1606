@@ -1,21 +1,11 @@
-<h1 align="center">Cherinet Derbie</h1>
+<div align="center">
 
-<h3 align="center">
-Full-Stack Developer (MERN & PERN) | Software Engineering Student at ASTU | AI & Agentic Systems Explorer
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Cherinet+Derbie+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%26+PERN;Building+Intelligent%2C+Scalable+Systems;Agentic+AI+%7C+Automation+%7C+APIs)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+%26+PERN+Engineer;AI+Explorer+%7C+Agentic+AI+Learner;Building+Scalable+Web+Systems+%26+APIs" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&animation=fadeIn" width="100%" />
 
-<p align="center">
-  <a href="https://github.com/chera1606"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/cherinet-derbie-4b1206377/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="mailto:cherinetderbie@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://t.me/Alula1623"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4" /></a>
-</p>
+</div>
 
----
 
 ## 🧠 SYSTEM PROFILE
 
