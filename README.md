@@ -6,7 +6,6 @@
 
 </div>
 
-
 ## About Me
 
 > Software Engineering student at **Adama Science and Technology University (ASTU)**  
