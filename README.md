@@ -24,7 +24,6 @@
 - Open Source Collaboration
 
 ---
-
 ## 🛠 TECH STACK
 
 ### Frontend
