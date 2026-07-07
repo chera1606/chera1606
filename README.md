@@ -67,7 +67,6 @@
 - Agentic AI projects and automation pipelines
 
 ---
-
 ## 🌱 CURRENTLY LEARNING
 
 - Agentic AI Development
