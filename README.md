@@ -85,7 +85,6 @@
 - Contribute to impactful open-source projects
 - Grow as a Full-Stack and AI Engineer
 - Create technology that solves real-world problems
-
 ---
 
 ## 📊 GITHUB STATS
