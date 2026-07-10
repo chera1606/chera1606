@@ -57,7 +57,6 @@
 </p>
 
 ---
-
 ## 🚀 WHAT I'M BUILDING
 
 - Scalable full-stack web applications
